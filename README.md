@@ -7,7 +7,7 @@
 
 http://csc174.org/assignment04/team-brooklyn
 
-This page gives some brief insight into the lives of three University of Rochester students, two of whom were born outside the United States, and one who was not. Each page provides an **introduction** of the student, some **background** about their early life, **work** experience they have acquired, and some of their additional **interests**. 
+This page gives some brief insight into the lives of three University of Rochester students, two of whom are majoring in Computer Science, and one who is pursuing it as a minor. Each page provides an **introduction** of the student, some **background** about their early life, **work** experience they have acquired, and some of their additional **interests**. 
 
 # Ontology
 - Each student has a name
