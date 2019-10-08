@@ -25,3 +25,6 @@ This page gives some brief insight into the lives of three University of Rochest
 
 ### Choreography
 The order of the main menu is based on the alphabetical order of the students' names, preceded by a link back to the home page. Each page begins with an introduction of the student, and is followed by events in their life presented in chronological order.
+
+# CSS Architecture 
+For the design of this website I chose to do a Z-pattern layout for the homepage and an F-layout for the student pages. The Z layout worked best for the homepage because it had a low amount of conent, whereas the F layout was useful for reading the larger amount of content within the student pages. I used repeated color with alternating grey and white boxes as a way of creating contrast between each of the sections on all of the pages so that the separate topics could be easily distinguished from each other and also so that the sections would be easier to read. 
