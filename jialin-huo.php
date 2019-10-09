@@ -3,11 +3,11 @@
 <body>
 <div class="container">
 <header class=" h">
-	<h1 class="box h">Jialin Huo</h1>
+	<h1 class="box h sub">Jialin Huo</h1>
 	<img src="images/jialin-huo.jpg" alt="Jialin Huo">
 </header>
 
-<aside>
+<aside class="subaside">
 	<ul>
 		<li>Computer Science Minor</li>
 		<li>Class of 2020</li>

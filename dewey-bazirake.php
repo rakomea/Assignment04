@@ -3,11 +3,11 @@
 <body>
 <div class="container">
 <header class=" h">
-	<h1 class="box h">Dewey Bazirake</h1>
+	<h1 class="box h sub">Dewey Bazirake</h1>
 	<img src="images/dewey-bazirake.jpg" alt="Dewey Bazirake">
 </header>
 
-<aside>
+<aside class="subaside">
 	<ul>
 		<li>Computer Science Major</li>
 		<li>Class of 2020</li>

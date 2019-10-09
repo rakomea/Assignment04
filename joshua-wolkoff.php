@@ -3,11 +3,11 @@
 <body>
 <div class="container">
 <header class=" h">
-	<h1 class="box h">Joshua Wolkoff</h1>
+	<h1 class="box h sub">Joshua Wolkoff</h1>
 	<img src="images/joshua-wolkoff.jpg" alt="Joshua Wolkoff">
 </header>
 
-<aside>
+<aside class="subaside">
 	<ul>
 		<li>CSC and Philosophy major</li>
 		<li>Incredible person</li>
