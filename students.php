@@ -21,7 +21,7 @@
 		</article>
 	</section>
 
-	<section class="f">
+	<section class="f odd">
 		<img src="images/jialin-huo.jpg" alt="Jialin Huo">
 
 		<article>

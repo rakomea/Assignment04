@@ -24,7 +24,7 @@
 	</ul>
 </aside>
 
-<nav><a href="students.php">Click here to learn more about the students</a></nav>
+<nav class=" box n "><a href="students.php">Click here to learn more about the students</a></nav>
 
 <main class="box lead">
 	<p>Welcome to our page! Here you can read a little bit about the lives of three University of Rochester students. Dewey and Josh are both majoring in Computer Science, and Jialin is pursuing it as a minor.</p>
