@@ -24,15 +24,7 @@
 	</ul>
 </aside>
 
-<!-- <nav class="box n">
-	<ul class="menu">
-		<li><a href="index.php">Home</a></li>
-		<li><a href="dewey-bazirake.php">Dewey Bazirake</a></li>
-		<li><a href="jialin-huo.php">Jailin Huo</a></li>
-		<li><a href="joshua-wolkoff.php">Joshua Wolkoff</a></li>
-	</ul>
-</nav> -->
-<?php include "inc/nav.php"; ?>
+<nav><a href="students.php">Click here to learn more about the students</a></nav>
 
 <main class="box lead">
 	<p>Welcome to our page! Here you can read a little bit about the lives of three University of Rochester students. Dewey and Josh are both majoring in Computer Science, and Jialin is pursuing it as a minor.</p>

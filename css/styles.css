@@ -25,13 +25,13 @@ nav a:hover {
 /*	*************************************************
 	Module
 	************************************************* */
-.box , .menu {
+.box {
         background-color: #444;
         color: #fff;
         padding:13px; 
         }
 
-.home{
+.home {
 	text-shadow: 3px 3px 4px #ffffff;
 	font-size: 70px; 
 	margin-top: -80px; 
@@ -42,7 +42,7 @@ nav a:hover {
 	margin-top: 20px; 
 }
 
-.homeaside h2{
+.homeaside h2 {
 	text-align: center; 
 	font-size: 22px;  
 }
@@ -129,22 +129,14 @@ margin-left: 20px;
 
 }
 
-.topic{
-	align-self: center; 
-	padding-right: 20px;  
-}
-
-
-.subaside {
-	position: absolute; 
-	top:250px;
-	left:500px;
-	font-size: 30px;
+article {
+	padding-left: 30px;  
 }
 
 footer {
+	margin-top: 30px;
 	grid-column: 1/4; 
-	color: #ffffff; 
+	color: #444; 
 }
 
 
