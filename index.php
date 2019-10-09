@@ -24,10 +24,10 @@
 	</ul>
 </aside>
 
-<nav class="toggle"><a href="students.php">Click here to learn more about the students</a></nav>
+<nav class="toggle"><a href="students.php">Find out who's the odd one out!</a></nav>
 
 <main class="box lead">
-	<p>Welcome to our page! Here you can read a little bit about the lives of three University of Rochester students. Dewey and Josh are both majoring in Computer Science, and Jialin is pursuing it as a minor.</p>
+	<p>Welcome to our page! Here you can read a little bit about the lives of three University of Rochester students. Two of these students have something in common that the third does not.</p>
 </main>
 
 <footer class="foot">CSC 174: Advanced Front-end Web Design and Development</footer>
