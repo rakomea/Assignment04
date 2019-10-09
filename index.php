@@ -7,10 +7,10 @@
 </header>
 <div class="main">
 	<ul id="cbp-bislideshow" class="cbp-bislideshow">
-		<li><img src="images/brooklyn.jpg" alt="Brooklyn"/></li>
-		<li><img src="images/dewey-bazirake.jpg" alt="Dewey"/></li>
-		<li><img src="images/jialin-huo.jpg" alt="Jailin"/></li>
-		<li><img src="images/joshua-wolkoff.jpg" alt="Joshua"/></li>
+		<li><img src="images/brooklyn-bridge.jpg" alt="Brooklyn Bridge"/></li>
+		<li><img src="images/houses.jpg" alt="Houses"/></li>
+		<li><img src="images/stores.jpg" alt="Stores"/></li>
+		<li><img src="images/subway.jpg" alt="Subway"/></li>
 	</ul>
 	
 </div>
@@ -24,7 +24,7 @@
 	</ul>
 </aside>
 
-<nav class=" box n "><a href="students.php">Click here to learn more about the students</a></nav>
+<nav class="toggle"><a href="students.php">Click here to learn more about the students</a></nav>
 
 <main class="box lead">
 	<p>Welcome to our page! Here you can read a little bit about the lives of three University of Rochester students. Dewey and Josh are both majoring in Computer Science, and Jialin is pursuing it as a minor.</p>

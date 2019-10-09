@@ -7,7 +7,7 @@
 	<h1 class="box h sub">Meet the Students</h1>
 </header>
 
-<nav><a href="index.php">Home</a></nav>
+<nav class="toggle"><a href="index.php">Home</a></nav>
 
 <main>
 	<section class="box f">
