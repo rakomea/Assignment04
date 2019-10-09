@@ -24,7 +24,7 @@
 	</ul>
 </aside>
 
-<nav class="toggle"><a href="students.php">Find out who's the odd one out!</a></nav>
+<nav class=" box n "><a href="students.php">Find out who's the odd one out!</a></nav>
 
 <main class="box lead">
 	<p>Welcome to our page! Here you can read a little bit about the lives of three University of Rochester students. Two of these students have something in common that the third does not.</p>

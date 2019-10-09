@@ -25,6 +25,7 @@ nav a:hover {
 /*	*************************************************
 	Module
 	************************************************* */
+
 .box {
         background-color: #444;
         color: #fff;
@@ -58,6 +59,7 @@ nav a:hover {
 /*	*************************************************
 	LAYOUT
 	************************************************* */
+
 .container {
 	margin:0 auto;
 	width:90%;
@@ -72,40 +74,25 @@ nav a:hover {
 }
 
 /* header */
+
 .h {
 	grid-column: 1/3;
 	grid-row: 1; 
 } 
 
-.toggle {
-	grid-column: 3/4;
-	grid-row: 1;
-}
-
 /* Navigation */
-
-
-.menu {
-	display: flex;  
-	text-align: center; 
-}
 
 .n {
 	grid-column: 3/4; 
-	grid-row: 1;  
- 
+	grid-row: 1; 
+	font-size: 30px; 
+	font-family: 'Big Shoulders Display', cursive;
+	text-align: center; 
+	padding-top: 60px;  
+	padding-left: 20px;
+	display: block; 
+ 	text-shadow: 3px 3px 4px #000000;
 }
-
-.menu li { 
-		display: block;  
-		font-size: 24px; 
-		padding: 10px; 
-		font-family: 'Big Shoulders Display', cursive; 
-	}
-.menu {
-	padding: 10px; 
-}
-
 
 /* Z Layout - Home page */
 
@@ -129,7 +116,6 @@ nav a:hover {
 }
 
 /******* Layout F *******/ 
-
 
 main {
 	grid-column: 1/4;  
