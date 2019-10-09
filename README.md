@@ -9,7 +9,7 @@ http://csc174.org/assignment04/team-brooklyn
 
 This page gives some brief insight into the lives of three University of Rochester students, two of whom are majoring in Computer Science, and one who is pursuing it as a minor. 
 
-# Ontology
+## Ontology
 - Each student has a name
 - Each student is studying computer science
 - Each student has an introduction
@@ -19,7 +19,7 @@ This page gives some brief insight into the lives of three University of Rochest
 - Relationship to computer science (major/minor)
 - Introduction
 
-### Choreography
+## Choreography
 The order of the students is determined by the alphabetical order of their first (or last!) names.
 
 # CSS Architecture 
