@@ -2,7 +2,7 @@
 <?php include "inc/html-top.php"; ?>
 <body>
 <div class="container">
-<header class="box h">
+<header class=" h home">
 	<h1>Team Brooklyn</h1>
 </header>
 <div class="main">
@@ -15,7 +15,7 @@
 	
 </div>
 
-<aside>
+<aside class="homeaside box">
 	<h2>Brooklyn, NY</h2>
 	<ul>
 		<li>Borough in New York City</li>
@@ -38,7 +38,7 @@
 	<p>Welcome to our page! Here you can read a little bit about the lives of three University of Rochester students. Dewey and Josh are both majoring in Computer Science, and Jialin is pursuing it as a minor.</p>
 </main>
 
-<footer class="box">CSC 174: Advanced Front-end Web Design and Development</footer>
+<footer class="foot">CSC 174: Advanced Front-end Web Design and Development</footer>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <!-- imagesLoaded jQuery plugin by @desandro : https://github.com/desandro/imagesloaded -->
 <script src="js/jquery.imagesloaded.min.js"></script>
